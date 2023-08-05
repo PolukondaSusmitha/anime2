@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 text-align="centre">Mayabazar</h1>
+    <audio autoplay>
+        <source src="[iSongs.info] 16 - Title Music.mp3" type="audio/mp3">
+    </audio>
+    <div class="main">
+    
+    <div class="first">
+       <h2><b><a href="[iSongs.info] 16 - Title Music.mp3" target="_blank">Songs</a></b></h2>
+    
+    <div class="firstimage">
+    <img class="image" src="mb1.jpeg" alt="image" height="200px" width="200px" >
+    <img class="image" src="mb2.jpeg"alt="image" height="200px" width="200px">
+    <img class="image" src="mb4.jpeg"alt="image" height="200px" width="200px">
+    
+    
+    </div>
+    </div>
+    <div class="second">
+    <h2><b><a href="mayabazar.mp4">Mayabazar movie scenes</a></b></h2>
+    <div class="secondimage"></div>
+    <img class="image" src="mb3.jpeg" alt="image" height="200px" width="200px" >
+    <img class="image" src="mb5.jpeg"alt="image" height="200px" width="200px">
+    <img class="image" src="mb6.jpeg"alt="image" height="200px" width="200px">
+    
+    </div>
+    
+    </div>
+    
+</body>
+</html>
